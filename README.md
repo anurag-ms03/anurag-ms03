@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **PROGRAMMING**
 
-- 💬 Ask me about **C, C++, JAVA, PYTHON, JAVA-SCRIPT, HTML, CSE, UIPATH**
+- 💬 Ask me about **C, C++, JAVA, PYTHON, DATA STRUCTURES, UIPATH**
 
 - 📫 How to reach me **anuragmsthefirst@gmail.com**
 
